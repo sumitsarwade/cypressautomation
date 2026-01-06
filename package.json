@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/sumitsarwade/cypressautomation/issues"
   },
-  "homepage": "https://github.com/sumitsarwade/cypressautomation#readme"
+  "homepage": "https://github.com/sumitsarwade/cypressautomation#readme",
+  "devDependencies": {
+    "cypress": "^15.8.2"
+  }
 }
